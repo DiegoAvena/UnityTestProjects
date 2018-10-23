@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C1BB1306-6FF4-14AC-7A3C-7E892A0BBA4E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BorderManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraController.cs" Line="63" Column="13" />
+      <File FileName="Assets/Scripts/BorderManager.cs" Line="35" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - verticalBorder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - BGPillars
+  - MidGround
+  - Pillars
+  - BottomFloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 683213119
+    locked: 0
+  - name: BGPillars
+    uniqueID: 1670307417
+    locked: 0
+  - name: MidGround
+    uniqueID: 3464612485
+    locked: 0
+  - name: Pillars
+    uniqueID: 106854493
+    locked: 0
+  - name: Floor
+    uniqueID: 2496259725
+    locked: 0
+  - name: Player
+    uniqueID: 2270974807
+    locked: 0
